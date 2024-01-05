@@ -7,7 +7,7 @@
 
 ![image](https://github.com/WillianSeidel/platform2dtest/assets/126173353/ab31f962-3d23-4d1d-9607-5d6c8413a258)
 
-#Foi utilizado o efeito paralax/espelho para preencher o cenario de fundo.
+#The parallax/mirror effect was used to fill the background scene.
 
 ![image](https://github.com/WillianSeidel/platform2dtest/assets/126173353/d2a96c4a-0aa5-42ef-a3c0-311b6d67b046)
 ![image](https://github.com/WillianSeidel/platform2dtest/assets/126173353/508633ba-80d8-40cd-84ad-d1f4da648433)
